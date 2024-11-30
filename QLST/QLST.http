@@ -1,0 +1,6 @@
+@QLST_HostAddress = http://localhost:5115
+
+GET {{QLST_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
